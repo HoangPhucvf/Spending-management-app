@@ -1,6 +1,6 @@
 # Midterm-project
 
-Expense Recorder by group 5
+Spending management app by group 5
 
 Dependencies: <br>
 re <br>
